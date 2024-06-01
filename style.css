@@ -1,0 +1,56 @@
+body {
+    ul {
+        list-style-type: none;
+        margin: 2px;
+        padding: 20px;
+        text-align:right;
+        background-color: gray;
+    }
+    li{
+        display: inline;
+      
+    }
+    div.header{
+        background-color: lightgray;
+        padding: 100 50px 100px 40px;
+        img{
+            border-radius: 1%;
+        }
+    }
+    div.aboutme {
+        background-color: white;
+        padding: 100 50px 100px 40px;
+        
+    }
+    div.services{
+        background-color: lightgray;
+        padding: 100 50px 100px 40px;
+    }
+    div.icons{
+        background-color: black;
+        padding: 100 50px 100px 40px;
+    }
+    div.featuredworks{
+        background-color: white;
+        padding: 100 50px 100px 40px;
+      
+    }
+    div.blog{
+        background-color: rgb(182, 180, 180);
+        padding: 100 50px 100px 40px;
+    }
+    div.qoute{
+        background-color: white;
+        padding: 100 50px 100px 40px;
+        text-align: center;
+    }
+    div.email{
+        background-color: lightgray;
+        padding: 100 50px 100px 40px;
+    }
+    div.footer{
+        background-color: gray;
+        padding: 100 50px 100px 40px;
+    }
+
+}
